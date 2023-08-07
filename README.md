@@ -1,5 +1,7 @@
 # RAG-implementation
 
+Example of Retrieval Augmented Generation with a private dataset.
+
 We have demonstrated three different ways to utilise RAG Implementations over the document for Question/Answering and Parsing.
 
 1 - Original MetaAI RAG Paper Implementation for user dataset.
